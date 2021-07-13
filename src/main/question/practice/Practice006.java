@@ -4,10 +4,11 @@ import java.util.Arrays;
 import java.util.List;
 
 /**
- * 引数に二つのリストが与えられるので、リストAからリストBに含まれる内容を除外して新しいリストを生成して返却してください。
+ * 引数に二つのリストが与えられるので、リストAからリストBに含まれる内容を除外した新しいリストを生成して返却してください。
  * */
 public class Practice006 {
 
+	// 実行例
 	public static void sample() {
 		List<String> listA, listB, result;
 
